@@ -1,0 +1,43 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+*.iobj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Debug builds
+Debug/
+
+# Logs
+*.log
+GravitySimulator.tlog/
+
+# System specific files
+*.FileListAbsolute.txt
+*.recipe
+*.pdb
+*.ipdb
+
+
+# Visual Studio stuff
+.vs/
+.vscode/
+
+# Other things
+Backups/
